@@ -2,6 +2,7 @@ type: call
 title: Quarkus Insights Episode 233 - What is Docling?
 description: |
     Michele Dolfi, Thomas Vitale, and Eric Deandrea join us to discuss Docling, a project which converts documents into structured data for AI models. Learn how it parses various file types, such as PDFs, DOCX, and images, to extract rich information like layout, tables, and reading order, making documents suitable for generative AI applications like Retrieval-Augmented Generation (RAG) systems and how to use it with Quarkus.
+date: 2026-01-26
 time: 14:00:00
 duration: PT60M
 callLink: https://quarkus.io/insights/
