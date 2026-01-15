@@ -1,0 +1,8 @@
+type: call
+title: Quarkus Insights Episode 235 - Mandrel 25 and Quarkus
+description: |
+    Robert Toyonaga, Severin Gehworlf, Karm Babacek, Foivos Zakkak, Sanne Grinovero, and Galder Zamarreno join us to discuss the release of Mandrel 25 and how it aligns the native-image capabilities from GraalVM with OpenJDK and Red Hat Enterprise Linux libraries to improve maintainability for native Quarkus applications.
+date: 2026-02-09
+time: 14:00:00
+duration: PT60M
+callLink: https://quarkus.io/insights/
